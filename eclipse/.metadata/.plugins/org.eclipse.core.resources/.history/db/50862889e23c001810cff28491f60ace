@@ -1,7 +1,0 @@
-package com.skiuileuf.warfare;
-
-import net.minecraft.entity.EntityCreature;
-
-public class Soldier extends EntityCreature {
-
-}
