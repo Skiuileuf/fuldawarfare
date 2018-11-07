@@ -2,25 +2,33 @@
 
 #Alpha 0.1:
 
-NPC interface.
+interface NPC
 
 	Private int[3] goalPos
 	
 	Private ??? model
 	
 	Private ??? texture
-
-	Public void setGoalPos(int x, int y, int z)
 	
-	Public void setOwnUnit(Unit u)
+	Private Item[] upkeep
+	
+	Private Item[] inventory
+
+	Public void moveToPos(int x, int y, int z)
+	
+	Public Boolean setUnit(Unit u)
 	
 	Public void checkUpkeep()
+	
+	Public Boolean addToInv(Item i, int num)
+	
+	Public Boolean removeFromInv(Item i, int num)
+	
+	
 
 Soldier extends Entity implements NPC
 
-	//However MC handles gear
-	
-	//really not sure how to do MC AI either
+	//Here we'd mostly be concerned with AI, I think?
 
 Unit class
 	Private Soldier templateSoldier
