@@ -31,6 +31,7 @@ Soldier extends Entity implements NPC
 	//Here we'd mostly be concerned with AI, I think?
 
 Unit class
+
 	Private Soldier templateSoldier
 	
 	Private int maxTroops //stored separately so we know how many to add for healing
@@ -54,11 +55,12 @@ Unit class
 	Public void checkUpkeep()
 	
 Formation class
+
 	Private int numTroops()
 	
 	Private FormationUnit[] formation
 
-	Public void Formation(int numTroops)\
+	Public void Formation(int numTroops)
 
 	Public FormationUnit[] rectangle(int depth, float dispersion) //line or column
 	
@@ -67,13 +69,20 @@ Formation class
 	Public FormationUnit[] wedge(float dispersion) //For charging
 
 FormationUnit class
+
 	Private float distance
 	
 	Private float angle
 	
 	Private float facing
+	
+	Private Soldier guide
 
-	Public void FormationUnit(float d, float a)
+	Public void FormationUnit(float d, float a, Soldier g)
+	
+	Public Soldier getGuideUnit()
+	
+	Public Boolean setGuideUnit(Soldier g)
 	
 	Public float getDistance()
 	
