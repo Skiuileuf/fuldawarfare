@@ -1,12 +1,31 @@
-[21:43:49] [main/INFO]: Setting user: Player152
-[21:43:55] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:43:59] [Client thread/ERROR]: Couldn't initialize twitch stream
-[21:44:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Fulda Warfare
-[21:44:12] [Sound Library Loader/INFO]: Sound engine started
-[21:44:13] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[21:44:13] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[21:44:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Fulda Warfare
-[21:44:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:44:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:44:16] [Sound Library Loader/INFO]: Sound engine started
-[21:46:02] [Client thread/INFO]: Stopping!
+[21:13:16] [main/INFO]: Setting user: Player458
+[21:13:18] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:13:20] [Client thread/ERROR]: Couldn't initialize twitch stream
+[21:13:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Fulda Warfare
+[21:13:36] [Sound Library Loader/INFO]: Sound engine started
+[21:13:37] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:13:37] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:13:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Fulda Warfare
+[21:13:38] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:13:38] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:13:39] [Sound Library Loader/INFO]: Sound engine started
+[21:14:00] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:14:00] [Server thread/INFO]: Generating keypair
+[21:14:01] [Server thread/INFO]: Preparing start region for level 0
+[21:14:02] [Server thread/INFO]: Changing view distance to 2, from 10
+[21:14:37] [Server thread/INFO]: Stopping server
+[21:14:37] [Server thread/INFO]: Saving players
+[21:14:37] [Server thread/INFO]: Saving worlds
+[21:14:37] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[21:14:37] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[21:14:37] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[21:14:38] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:14:38] [Server thread/INFO]: Generating keypair
+[21:14:38] [Server thread/INFO]: Preparing start region for level 0
+[21:14:38] [Server thread/INFO]: Changing view distance to 2, from 10
+[21:14:39] [Server thread/INFO]: Player458[local:E:f5c79234] logged in with entity id 232 at (-389.5, 4.0, 164.5)
+[21:14:39] [Server thread/INFO]: Player458 joined the game
+[21:18:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2805ms behind, skipping 56 tick(s)
+[21:19:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3108ms behind, skipping 62 tick(s)
+[21:19:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3238ms behind, skipping 64 tick(s)
+[21:19:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2942ms behind, skipping 58 tick(s)
